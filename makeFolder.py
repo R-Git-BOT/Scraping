@@ -76,7 +76,7 @@ def scraping(id, pw, url):
 
 
 # = input("input URL : ")
-url = 'https://ponkotsu.fanbox.cc/posts/1346409'
-USER = "rougebotthew"
-PASS = "A1ka2!rgbot"
+url = '****'
+USER = "****"
+PASS = "****"
 scraping(USER, PASS, url)

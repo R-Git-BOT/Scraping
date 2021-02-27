@@ -7,8 +7,8 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 
-USER = "rgbot"
-PASS = "satoshi3104"
+USER = "****"
+PASS = "****"
 
 session = requests.session()
 
