@@ -1,0 +1,15 @@
+2020/08/26-16:28:20.604 281c Reusing MANIFEST F:\DEV\ntrIO\py3\scra\chronium\Default\IndexedDB\https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/26-16:28:20.605 281c Recovering log #4
+2020/08/26-16:28:20.605 281c Reusing old log F:\DEV\ntrIO\py3\scra\chronium\Default\IndexedDB\https_www.pixiv.net_0.indexeddb.leveldb/000004.log 
+2020/08/26-16:28:32.183 4080 Level-0 table #8: started
+2020/08/26-16:28:32.231 4080 Level-0 table #8: 60332 bytes OK
+2020/08/26-16:28:32.307 4080 Delete type=0 #4
+2020/08/26-16:28:32.307 4080 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/26-16:28:32.308 4080 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 421 : 1
+2020/08/26-16:28:32.308 4080 Compacting 1@1 + 1@2 files
+2020/08/26-16:28:32.352 4080 Generated table #9@1: 83 keys, 35193 bytes
+2020/08/26-16:28:32.352 4080 Compacted 1@1 + 1@2 files => 35193 bytes
+2020/08/26-16:28:32.429 4080 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/26-16:28:32.429 4080 Delete type=2 #5
+2020/08/26-16:28:32.429 4080 Delete type=2 #8
+2020/08/26-16:28:32.429 4080 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 421 : 1 .. (end); will stop at (end)

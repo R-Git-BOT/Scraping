@@ -1,0 +1,5 @@
+2020/08/26-16:27:57.267 6224 Reusing MANIFEST F:\DEV\ntrIO\py3\scra\chronium\Default\IndexedDB\https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/26-16:28:00.554 4080 Level-0 table #5: started
+2020/08/26-16:28:00.727 4080 Level-0 table #5: 27767 bytes OK
+2020/08/26-16:28:01.033 4080 Delete type=0 #3
+2020/08/26-16:28:01.034 4080 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
